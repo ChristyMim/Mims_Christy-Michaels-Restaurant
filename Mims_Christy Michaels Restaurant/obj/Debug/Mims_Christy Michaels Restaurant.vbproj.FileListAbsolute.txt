@@ -1,0 +1,34 @@
+F:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\bin\Debug\Mims_Christy Michaels Restaurant.exe.config
+F:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\bin\Debug\Mims_Christy Michaels Restaurant.exe
+F:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\bin\Debug\Mims_Christy Michaels Restaurant.pdb
+F:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\bin\Debug\Mims_Christy Michaels Restaurant.xml
+F:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\obj\Debug\Mims_Christy Michaels Restaurant.vbprojResolveAssemblyReference.cache
+F:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\obj\Debug\Mims_Christy_Michaels_Restaurant.Form1.resources
+F:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\obj\Debug\Mims_Christy_Michaels_Restaurant.Resources.resources
+F:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\obj\Debug\Mims_Christy Michaels Restaurant.vbproj.GenerateResource.Cache
+F:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\obj\Debug\Mims_Christy Michaels Restaurant.exe
+F:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\obj\Debug\Mims_Christy Michaels Restaurant.xml
+F:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\obj\Debug\Mims_Christy Michaels Restaurant.pdb
+E:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\bin\Debug\Mims_Christy Michaels Restaurant.exe.config
+E:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\obj\Debug\Mims_Christy Michaels Restaurant.exe
+E:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\obj\Debug\Mims_Christy Michaels Restaurant.xml
+E:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\obj\Debug\Mims_Christy Michaels Restaurant.pdb
+E:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\bin\Debug\Mims_Christy Michaels Restaurant.exe
+E:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\bin\Debug\Mims_Christy Michaels Restaurant.pdb
+E:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\bin\Debug\Mims_Christy Michaels Restaurant.xml
+E:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\obj\Debug\Mims_Christy Michaels Restaurant.vbprojResolveAssemblyReference.cache
+E:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\obj\Debug\Mims_Christy_Michaels_Restaurant.Resources.resources
+E:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\obj\Debug\Mims_Christy Michaels Restaurant.vbproj.GenerateResource.Cache
+E:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\obj\Debug\Mims_Christy_Michaels_Restaurant.frmMichaelsRestaurant.resources
+G:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\bin\Debug\Mims_Christy Michaels Restaurant.exe.config
+G:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\obj\Debug\Mims_Christy Michaels Restaurant.exe
+G:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\obj\Debug\Mims_Christy Michaels Restaurant.xml
+G:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\obj\Debug\Mims_Christy Michaels Restaurant.pdb
+G:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\bin\Debug\Mims_Christy Michaels Restaurant.exe
+G:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\bin\Debug\Mims_Christy Michaels Restaurant.pdb
+G:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\bin\Debug\Mims_Christy Michaels Restaurant.xml
+G:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\obj\Debug\Mims_Christy_Michaels_Restaurant.frmMichaelsRestaurant.resources
+G:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\obj\Debug\Mims_Christy_Michaels_Restaurant.Resources.resources
+G:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\obj\Debug\Mims_Christy Michaels Restaurant.vbproj.GenerateResource.Cache
+G:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\obj\Debug\Mims_Christy Michaels Restaurant.vbproj.CoreCompileInputs.cache
+G:\vbp\Mims_Christy Michaels Restaurant\Mims_Christy Michaels Restaurant\obj\Debug\Mims_Christy Michaels Restaurant.vbprojAssemblyReference.cache
